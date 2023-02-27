@@ -55,9 +55,11 @@ for (let i = 0; i < 5; i++) {
         }. Your answer is ${sample}. ${answer}`
     );
 
-    console.log(`${randNum1} - ${randNum2} = ${
-        randNum1 - randNum2
-    }. Your answer is ${sample}. ${answer}`);
+    console.log(
+        `${randNum1} - ${randNum2} = ${
+            randNum1 - randNum2
+        }. Your answer is ${sample}. ${answer}`
+    );
 }
 
 alert("Примеры на УМНОЖЕНИЕ!");
@@ -76,9 +78,11 @@ for (let i = 0; i < 5; i++) {
         }. Your answer is ${sample}. ${answer}`
     );
 
-    console.log(`${randNum1} * ${randNum2} = ${
-        randNum1 * randNum2
-    }. Your answer is ${sample}. ${answer}`);
+    console.log(
+        `${randNum1} * ${randNum2} = ${
+            randNum1 * randNum2
+        }. Your answer is ${sample}. ${answer}`
+    );
 }
 
 alert("Примеры на ДЕЛЕНИЕ!");
@@ -97,7 +101,9 @@ for (let i = 0; i < 5; i++) {
         }. Your answer is ${sample}. ${answer}`
     );
 
-    console.log(`${randNum1} / ${randNum2} = ${
-        randNum1 / randNum2
-    }. Your answer is ${sample}. ${answer}`);
+    console.log(
+        `${randNum1} / ${randNum2} = ${
+            randNum1 / randNum2
+        }. Your answer is ${sample}. ${answer}`
+    );
 }
